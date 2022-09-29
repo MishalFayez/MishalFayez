@@ -1,8 +1,12 @@
 ### Hi there 👋
 - 🔭 I’m currently working on OSIT
+
 - 🌱 I’m currently Managing ERP project
+
 - 👯 I’m looking to collaborate on building impactful apps
-- 💬 Ask me about SAAS, ERP, Web Dev, Django and Odoo
+
+- 💬 Ask me about Saas, ERP, Web Dev, Django and Odoo
+
 - ⚡ Fun fact: I am a curious person who loves to learn
 <!--
 **MishalFayez/MishalFayez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
